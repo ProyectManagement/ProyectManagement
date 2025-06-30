@@ -1,6 +1,6 @@
 # 🌟 Plataforma de IA para Prevención de Abandono Escolar
 
-![Banner](imagenes/banner.png)
+![Banner](imagenes/futured.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=social\&logo=Linkedin\&logoColor=blue\&link=https://www.linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/tu-perfil)
 [![Gmail Badge](https://img.shields.io/badge/-tuemail-c14438?style=social\&logo=Gmail\&logoColor=red\&link=mailto\:tuemail@gmail.com)](mailto:tuemail@gmail.com)
