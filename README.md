@@ -1,6 +1,6 @@
 # 🌟 Plataforma de IA para Prevención de Abandono Escolar
 
-![Banner](imagenes/futured.png)
+<img src="imagenes/futured.png" alt="Banner" width="600"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=social\&logo=Linkedin\&logoColor=blue\&link=https://www.linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/tu-perfil)
 [![Gmail Badge](https://img.shields.io/badge/-tuemail-c14438?style=social\&logo=Gmail\&logoColor=red\&link=mailto\:tuemail@gmail.com)](mailto:tuemail@gmail.com)
@@ -13,9 +13,9 @@ Este proyecto emplea IA para identificar factores de riesgo y prevenir el abando
 
 ## 📸 Capturas de Pantalla
 
-![Dashboard Principal](imagenes/dashboard_main.png)
+<img src="imagenes/dashboard_main.png" alt="Dashboard Principal" width="600"/>
 
-![Análisis de Datos](imagenes/data_analysis.png)
+<img src="imagenes/data_analysis.png" alt="Análisis de Datos" width="600"/>
 
 ## 🎨 Tecnologías Utilizadas
 
@@ -27,9 +27,9 @@ Este proyecto emplea IA para identificar factores de riesgo y prevenir el abando
 
 ## 📊 Estadísticas del Repositorio
 
-![Stats Overview](imagenes/overview.svg)
+<img src="imagenes/overview.svg" alt="Stats Overview" width="600"/>
 
-![Lenguajes Más Usados](imagenes/languages.svg)
+<img src="imagenes/languages.svg" alt="Lenguajes Más Usados" width="600"/>
 
 ## ❤️ Contribuciones
 
