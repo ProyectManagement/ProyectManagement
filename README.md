@@ -1,10 +1,9 @@
 # 🌟 Plataforma de IA para Prevención de Abandono Escolar
 
-```markdown
 ![Banner](https://raw.githubusercontent.com/tuusuario/tu-repo/main/assets/banner.png)
 
-[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/tu-perfil)
-[![Gmail Badge](https://img.shields.io/badge/-tuemail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tuemail@gmail.com)](mailto:tuemail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=social\&logo=Linkedin\&logoColor=blue\&link=https://www.linkedin.com/in/tu-perfil)](https://www.linkedin.com/in/tu-perfil)
+[![Gmail Badge](https://img.shields.io/badge/-tuemail-c14438?style=social\&logo=Gmail\&logoColor=red\&link=mailto\:tuemail@gmail.com)](mailto:tuemail@gmail.com)
 
 ---
 
@@ -20,11 +19,11 @@ Este proyecto emplea IA para identificar factores de riesgo y prevenir el abando
 
 ## 🎨 Tecnologías Utilizadas
 
-- Python
-- Jupyter Notebook
-- scikit-learn
-- pandas
-- MongoDB Atlas
+* Python
+* Jupyter Notebook
+* scikit-learn
+* pandas
+* MongoDB Atlas
 
 ## 📊 Estadísticas del Repositorio
 
@@ -39,4 +38,3 @@ Abre un issue o haz un pull request.
 ---
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-```
